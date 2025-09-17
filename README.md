@@ -8,7 +8,6 @@ A complete capstone project analyzing supermarket customer behavior: demographic
 supermarket-customer-capstone-github/
 ├─ notebooks/
 │  ├─ Supermarket_Customer_Capstone_English.ipynb
-│  └─ Supermarket_Customer_Capstone_ID.ipynb   # (optional reference)
 ├─ data/
 │  └─ supermarket_customers.csv
 ├─ docs/
