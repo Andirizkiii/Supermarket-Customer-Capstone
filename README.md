@@ -59,7 +59,7 @@ supermarket-customer-capstone-github/
 - Problem framing & business objectives
 - Data cleaning & feature engineering (e.g., age, family size, recency buckets)
 - EDA & visualizations
-- Marketing insights & customer segments (optional)
+- Marketing insights & customer segments
 - Recommendations & next steps
 
 ## 🧪 Reproducibility
